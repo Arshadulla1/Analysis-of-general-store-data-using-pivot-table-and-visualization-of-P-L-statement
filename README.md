@@ -1,0 +1,1 @@
+# Analysis-of-general-store-data-using-pivot-table-and-visualization-of-P-L-statement
